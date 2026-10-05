@@ -56,4 +56,4 @@ Na revisão de 05/10/2026: **126 testes descobertos; 106 passaram, 2 falharam e 
 
 Os documentos históricos descrevem a versão de origem. O desenvolvimento atual usa [my-vm-compiler](https://github.com/emanuelVINI01/my-vm-compiler), [my-vm](https://github.com/emanuelVINI01/my-vm) e [my-vm-os](https://github.com/emanuelVINI01/my-vm-os).
 
-Nenhum remoto Git está configurado na cópia original. A criação de repositório GitHub precisa ser confirmada pelo acesso remoto, sem inventar um link publicado. Não há arquivo de licença nesta versão.
+O código está no repositório privado [my-vm-legacy-compiler](https://github.com/emanuelVINI01/my-vm-legacy-compiler), que requer acesso autorizado no GitHub. Não há arquivo de licença nesta versão.
